@@ -11,4 +11,6 @@
 11. If they can't deliver, assign someone to go pick up the pizza.
 12. Once it is ready, acquire the pizza by either answering the door or having a representative drive to the restaurant.
 13. Bring the pizza inside.
-14. Open, serve and enjoy!
+14. Open the box and check the pizza.
+15. If they gave you the right order and it looks delicious, serve and enjoy!
+16. If they gave you the wrong order, call the restaurant and ask them to remake it.
